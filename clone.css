@@ -1,0 +1,253 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: white;
+}
+a {
+  display: block;
+}
+
+body {
+  overflow-x: hidden;
+}
+.navbar {
+  height: 50px;
+  background-color: black;
+  display: flex;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  align-items: center;
+}
+.navbar-logo {
+  height: 45px;
+  width: 100px;
+}
+.logo {
+  background-size: cover;
+  height: 50px;
+}
+
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px solid white;
+}
+
+.nav-add {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 3px 10px;
+  font-size: small;
+  cursor: pointer;
+  line-height: 11px;
+  align-items: center;
+}
+.add-icon {
+  display: flex;
+  gap: 3px;
+  align-items: center;
+  padding: 2px 0;
+}
+.img {
+  background-image: url(hero_image.jpg);
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+}
+.new {
+  height: 400px;
+  display: flex;
+  width: 100%;
+  padding: 10px 0;
+  column-gap: 10px;
+  justify-content: space-between;
+}
+
+.new img {
+  height: 100%;
+  width: 33%;
+}
+
+.ness img {
+  width: 25%;
+  object-fit: cover;
+}
+
+.loca {
+  height: 20px;
+}
+
+.borde {
+  border: 2px solid transparent;
+}
+border:hover {
+  border: 1px solid white;
+}
+
+.cls {
+  height: 20px;
+  margin-left: 20px;
+}
+.borde {
+  border: 2pxsolid transparent;
+}
+.border:hover {
+  border: 1px solid white;
+}
+.pls {
+  height: 25px;
+  width: 400px;
+}
+.but {
+  height: 20px;
+  margin-left: 10px;
+}
+.sta {
+  height: 25px;
+  width: 70px;
+  background-color: gold;
+  border: 2px solid rgb(14, 0, 0);
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px slid white;
+}
+
+.spad {
+  height: 20px;
+  width: 50px;
+
+  margin-left: 200px;
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px solid white;
+}
+
+.acu {
+  height: 22px;
+  width: 90px;
+  margin-left: 20px;
+}
+
+.borde {
+  border: 2px solid transparent;
+}
+
+.border:hover {
+  border: 1px solid white;
+}
+
+.of {
+  height: 22px;
+  width: 60px;
+  margin-left: 10px;
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1pxsolid white;
+}
+.cart {
+  height: 22px;
+  width: 70px;
+  margin-left: 10px;
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px solid white;
+}
+.ab {
+  height: 22px;
+  width: 90px;
+  margin-left: 10px;
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px solid white;
+}
+
+.ac {
+  height: 20px;
+
+  margin: 0px 10px;
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px solid white;
+}
+.log {
+  background-color: gold;
+  margin-left: 120px;
+  padding: 0px 12px;
+}
+.borde {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 1px solid rgb(241, 236, 236);
+}
+.pls {
+  color: black;
+}
+
+/* footer css here  */
+
+.footer {
+  background-color: darkslategrey;
+  display: flex;
+
+  padding: 80px 0px;
+}
+
+.get {
+  display: flex;
+  max-width: 1200px;
+  gap: 10px;
+  margin: auto;
+  flex-wrap: wrap;
+  width: 100%;
+
+  justify-content: center;
+}
+
+.footer-item {
+  padding: 10px;
+  width: 290px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.text a {
+  padding: 5px 0;
+}
+.amax{
+    height: 100px;
+    width: 200px;
+    margin-right: 40px;
+}
+
+.borde{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+}
